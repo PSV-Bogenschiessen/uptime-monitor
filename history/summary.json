@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 1309,
-    "timeDay": 1302,
-    "timeWeek": 1393,
-    "timeMonth": 1309,
-    "timeYear": 1309,
+    "time": 1294,
+    "timeDay": 1328,
+    "timeWeek": 1321,
+    "timeMonth": 1294,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-01-24": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2595,
-    "timeDay": 1500,
-    "timeWeek": 2366,
-    "timeMonth": 2595,
-    "timeYear": 2595,
+    "time": 2560,
+    "timeDay": 1903,
+    "timeWeek": 2391,
+    "timeMonth": 2560,
+    "timeYear": 2560,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1250,
-    "timeDay": 738,
-    "timeWeek": 1116,
-    "timeMonth": 1250,
-    "timeYear": 1250,
+    "time": 1257,
+    "timeDay": 1374,
+    "timeWeek": 1133,
+    "timeMonth": 1257,
+    "timeYear": 1257,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/einsteiger.anmeldung.bogen-psv.de.ico",
     "slug": "einsteiger-helfertool",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1824,
-    "timeDay": 1270,
-    "timeWeek": 1729,
-    "timeMonth": 1824,
-    "timeYear": 1824,
-    "dailyMinutesDown": {
-      "2025-01-29": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1871,
+    "timeDay": 1716,
+    "timeWeek": 1828,
+    "timeMonth": 1871,
+    "timeYear": 1871,
+    "dailyMinutesDown": {}
   }
 ]

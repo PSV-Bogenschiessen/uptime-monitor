@@ -1,7 +1,7 @@
 url: https://cloud.bogen-psv.de
-status: down
-code: 503
-responseTime: 1745
-lastUpdated: 2025-07-17T14:37:44.020Z
+status: up
+code: 200
+responseTime: 1283
+lastUpdated: 2025-07-17T14:51:42.976Z
 startTime: 2025-01-14T21:43:41.008Z
 generator: Upptime <https://github.com/upptime/upptime>

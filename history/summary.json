@@ -4,7 +4,7 @@
     "url": "https://bogen-psv.de",
     "icon": "https://icons.duckduckgo.com/ip3/bogen-psv.de.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 1532,
     "timeYear": 1470,
     "dailyMinutesDown": {
+      "2025-08-02": 0,
       "2025-07-31": 16,
       "2025-07-30": 22,
       "2025-07-21": 49,

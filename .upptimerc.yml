@@ -8,6 +8,8 @@ assignees:
 sites:
   - name: Website
     url: https://bogen-psv.de
+  - name: Archer
+    url: https://archer.anmeldung.bogen-psv.de/up
   - name: Nextcloud
     url: https://cloud.bogen-psv.de
   - name: Helfertool

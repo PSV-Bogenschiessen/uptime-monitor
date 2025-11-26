@@ -1,7 +1,7 @@
 url: https://archer.anmeldung.bogen-psv.de/up
-status: down
-code: 404
-responseTime: 1137
-lastUpdated: 2025-11-26T18:15:48.345Z
+status: up
+code: 200
+responseTime: 751
+lastUpdated: 2025-11-26T18:41:31.908Z
 startTime: 2025-10-12T07:52:30.576Z
 generator: Upptime <https://github.com/upptime/upptime>

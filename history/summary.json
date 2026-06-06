@@ -4,16 +4,16 @@
     "url": "https://bogen-psv.de",
     "icon": "https://icons.duckduckgo.com/ip3/bogen-psv.de.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "71.99%",
-    "uptimeWeek": "86.76%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "99.13%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "64.52%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "99.11%",
     "time": 1427,
-    "timeDay": 987,
-    "timeWeek": 1149,
-    "timeMonth": 1160,
+    "timeDay": 1108,
+    "timeWeek": 1174,
+    "timeMonth": 1168,
     "timeYear": 1427,
     "dailyMinutesDown": {
       "2025-07-21": 49,
@@ -75,7 +75,7 @@
       "2026-06-03": 148,
       "2026-06-04": 784,
       "2026-06-05": 241,
-      "2026-06-06": 162
+      "2026-06-06": 270
     }
   },
   {

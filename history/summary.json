@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bogen-psv.de.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "88.44%",
+    "uptime": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.76%",
     "uptimeMonth": "90.43%",
     "uptimeYear": "98.59%",
     "time": 1427,
-    "timeDay": 1692,
-    "timeWeek": 1222,
+    "timeDay": 1790,
+    "timeWeek": 1233,
     "timeMonth": 1281,
     "timeYear": 1415,
     "dailyMinutesDown": {
@@ -87,8 +87,7 @@
       "2026-06-15": 65,
       "2026-06-16": 106,
       "2026-06-17": 68,
-      "2026-06-18": 259,
-      "2026-06-20": 1
+      "2026-06-18": 259
     }
   },
   {
@@ -103,8 +102,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 783,
-    "timeDay": 1009,
-    "timeWeek": 679,
+    "timeDay": 1057,
+    "timeWeek": 685,
     "timeMonth": 654,
     "timeYear": 783,
     "dailyMinutesDown": {
@@ -125,8 +124,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1374,
-    "timeDay": 1665,
-    "timeWeek": 1427,
+    "timeDay": 1404,
+    "timeWeek": 1381,
     "timeMonth": 1454,
     "timeYear": 1301,
     "dailyMinutesDown": {
@@ -150,8 +149,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 817,
-    "timeDay": 926,
-    "timeWeek": 646,
+    "timeDay": 1072,
+    "timeWeek": 649,
     "timeMonth": 657,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -171,8 +170,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 885,
-    "timeDay": 689,
-    "timeWeek": 673,
+    "timeDay": 659,
+    "timeWeek": 676,
     "timeMonth": 668,
     "timeYear": 793,
     "dailyMinutesDown": {
